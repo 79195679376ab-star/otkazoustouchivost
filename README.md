@@ -29,5 +29,6 @@
 1. [`Заполните здесь этапы выполнения, если требуется ....`](https://github.com/79195679376ab-star/otkazoustouchivost/blob/main/main.tf)
 2. <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/44d4758b-c664-4ea3-93a8-cce15e61f1fc" />
 
-3. `<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/976e295f-3118-4286-9810-55fcbbd8e29f" />
+3. <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/728d87ba-b724-49c9-bca0-8af65e29ce96" />
+
 
